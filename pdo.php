@@ -47,5 +47,3 @@ foreach($db as $data) {
 }
 
 ตัวแปร $data จะคล้ายๆกับการเรียกข้อมูลแบบที่ 1 เพียงแค่เราเก็บข้อมูลมาอยู่ในตัวแปร $db เพียงตัวเดียว
-
-Credit : Nanthaphop Dumri	SourceCode : Phumin
